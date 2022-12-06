@@ -16,10 +16,10 @@ Pillow.
 
 ## Links
 
-[Project Repo](https://github.com/py5coding)
-[py5 Generator Reop](https://github.com/py5coding)
-[py5 Book Repo](https://github.com/py5coding/py5book)
+* [Project Repo](https://github.com/py5coding)
+* [py5 Generator Reop](https://github.com/py5coding)
+* [py5 Book Repo](https://github.com/py5coding/py5book)
 
 ## Website
 
-[Main website](http://py5.ixora.io/)
+* [Main website](http://py5.ixora.io/)
