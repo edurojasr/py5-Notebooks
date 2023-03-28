@@ -2,9 +2,9 @@
 
 Jupyther Notebooks for learning Python and py5, Tutorials and Challenges
 
-<center>
-    <picture><img src="img/logo_512x512.png"  width="200" /></picture>
-</center>
+<p align="center">
+    <picture><img align="middle" src="img/logo_512x512.png"  width="200" /></picture>
+</p>
 
 ## py5
 
