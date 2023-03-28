@@ -1,5 +1,5 @@
 # py5-Notebooks
-Jupyther Notebooks for py5 Tutorials and Challenges
+Jupyther Notebooks for learning python and py5: Tutorials and Challenges
 
 ![py5 logo](img/logo_512x512.png)
 
