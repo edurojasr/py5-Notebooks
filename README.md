@@ -1,6 +1,6 @@
 # py5-Notebooks
 
-Jupyther Notebooks for learning Python and py5, Tutorials and Challenges
+Jupyter Notebooks for learning Python and py5, Tutorials and Challenges
 
 <p align="center">
     <picture><img align="middle" src="img/logo_512x512.png"  width="200" /></picture>
@@ -21,7 +21,7 @@ Pillow.
 
 Learn by doing and teaching python programming using a visual and artistically approach from processing.
 
-## Notebooks categories
+## Notebooks [Categories](/categories/)
 
 * [Learn Python and py5](./categories/learning_python_py5/) This is meat for teaching about python programming fundamentals using py5 as a frame work for teaching visually.
 * [Tutorial](./categories/tutorials/) This are more focusing in py5 drawing and how to make stuff with it, this is the place for how to's.
