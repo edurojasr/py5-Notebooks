@@ -33,6 +33,6 @@ Learn by doing and teaching python programming using a visual and artistically a
 * [py5 Generator Reop](https://github.com/py5coding)
 * [py5 Book Repo](https://github.com/py5coding/py5book)
 
-## Website
+## py5 Website
 
-* [Main website](http://py5.ixora.io/)
+* [Main website](https://py5coding.org/index.html)
