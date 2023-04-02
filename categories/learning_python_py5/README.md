@@ -30,7 +30,7 @@ using [py5](http://py5coding.org/) as framework and also learning py5.
 
 Index of chapters:
 
-[Hello py5 world!]()
+[Hello py5 world!](/categories/learning_python_py5/1_hello_py5_world/)
 
 ## Tools
 
@@ -45,6 +45,13 @@ You may use:
 
 * [Visual Studio Code](https://www.youtube.com/watch?v=h1sAzPojKMg)
 * [Jupyter](https://docs.jupyter.org/en/latest/start/index.html)
+
+## Installing py5
+
+For the up to date instructions for *how to* install py5 and set it up for use inside
+jupyter notebooks fallow the instruction in [
+    py5 Install Docs
+](https://py5coding.org/content/install.html)
 
 ### Inspiration, resources, bibliography
 
