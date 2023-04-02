@@ -24,11 +24,13 @@ possibilities that py5 enable ,e to keep learning in a visually way.
 ## Who is this repo for?
 
 Anybody that what to learn Python using a visual approach in the style of Processing
-using [py5](http://py5coding.org/)
+using [py5](http://py5coding.org/) as framework and also learning py5.
 
 ## Chapters
 
+Index of chapters:
 
+[Hello py5 world!]()
 
 ## Tools
 
