@@ -19,8 +19,8 @@ Pillow.
 
 ## Goals
 
-Learn by doing and teaching python programming using a visual and artistically approach
-from processing.
+For me this is going to be learn by doing experience and teaching python programming
+using the visual and artistically approach from Processing.
 
 ## Notebooks [Categories](/categories/)
 
