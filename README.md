@@ -3,7 +3,7 @@
 Jupyter Notebooks for learning Python and py5, Tutorials and Challenges
 
 <p align="center">
-    <picture><img align="middle" src="img/logo_512x512.png"  width="200" /></picture>
+    <img align="middle" src="img/logo_512x512.png"  width="200"/>
 </p>
 
 ## py5
